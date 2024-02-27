@@ -2,7 +2,7 @@
 
 This program is used to automatically read books in the form of text files (files ending in .txt). Many such text files can be found through Project Gutenberg (www.gutenberg.org/).
 
-This program uses python libraries pyttsx3 and pandas. 
+This program uses python libraries pyttsx3 pandas and regex. 
     pyttsx3 was used for the text-to-speech functionality. 
     pandas was used for saving of reading data. 
     regex was used for delineation of sentences. 
