@@ -45,5 +45,15 @@ To use the word frequency analysis feature,
  - type in the name for the file.
  - Check the folder containing Main.py to find the .csv file.
 
+Here are the files used and what they do.
+ - Main.py	- This is the file that should be run for using WordAnalyzer
+ - Reader.py - This file contains the functions WordAnalyzer calls for performing text-to-speech.
+ - StartingPoints.csv - Contains the data on starting points, as well as current locations for all the books used by the program in the past, along with the book specific user settings.
+ - settings.config - Used to store the default settings.
+
+
+
+
+
 
 
